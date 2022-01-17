@@ -1,0 +1,19 @@
+﻿var,Source,var_desc
+state,Fred,state code
+year,Fred,year
+unemp,Fred,"change in state-level unemployment rate ( annual, lagged 1 year)"
+cpi,Fred,"change in state-level consumer price inflation ( annual, lagged 1 year)"
+hpi,Fred,"change in state-level house price index  ( annual, lagged 1 year)"
+president,MIT Election Lab,"change in dem vote share over previous presidential election (annual, contemporaneous)"
+senate,MIT Election Lab,"change in dem vote share over previous senatorial election (annual, contemporaneous)"
+house,MIT Election Lab,"change in dem vote share over previous congressional election (annual, contemporaneous)"
+cpi_US,Fred,"change in consumer price inflation  (annual, lagged 1 year)"
+unemp_US,Fred,"change in US unemployment rate  (annual, lagged 1 year)"
+exp,Fred,"change in median expected inflation from Michigan Survey of Consumers (annual, lagged 1 year)"
+growth,Fred,percentage change in US real GDP
+MKT,Kenneth French,"excess returns on stock market portfolio (annual, contemporaneous)"
+SMB,Kenneth French,"excess returns on SMB factor portfolio (annual, contemporaneous)"
+HML,Kenneth French,"excess returns on HMB factor portfolio (annual, contemporaneous)"
+Rf,Kenneth French,"risk free rate (annual, contemporaneous)"
+market,Kenneth French,"excess returns on stock market portfolio (annual, lagged 1 year)"
+dem_share,Kenneth French,mean change in dem vote share over all three branches during the year across states
